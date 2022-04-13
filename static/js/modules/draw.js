@@ -1,0 +1,1 @@
+_jsload2&&_jsload2('draw', 'function kg(){}var lg=kg.prototype;lg.gF=s();lg.qo=function(){aa("addLine\\u63a5\\u53e3\\u6ca1\\u6709\\u5b9e\\u73b0")};lg.setAttribute=function(){aa("setAttribute\\u63a5\\u53e3\\u6ca1\\u6709\\u5b9e\\u73b0")};lg.ee=function(){aa("setPath\\u63a5\\u53e3\\u6ca1\\u6709\\u5b9e\\u73b0")};lg.Zo=t("Jb");z.Jy=kg; ');
